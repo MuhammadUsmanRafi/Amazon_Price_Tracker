@@ -11,7 +11,6 @@
 4. Enter the price at which you want to be alerted via email.
 5. If the product's price drops below or equals your specified price, you will receive an email notification with the product details and URL.
 
-
 ### Installation and Setup   
 
 1. Clone the repository to your local machine using Git.
@@ -38,7 +37,12 @@ This project is licensed under the [MIT License](LICENSE).
 
 ### Contributions    
 
-Contributions to this project are welcome. Feel free to open issues or pull requests if you find any bugs or have suggestions for improvements.   
+Contributions to this project are welcome. Feel free to open issues or pull requests if you find any bugs or have suggestions for improvements.  
+
+### What to Expect in the Next Version:
+1. Background Execution: The script will run silently in the background, periodically checking for price changes while you go about your day.
+2. Instant Notifications: Get real-time email alerts as soon as the product price drops to your specified value.
+3. Increased Efficiency: Save time and never miss out on the perfect deal again!
 
 ### Disclaimer    
 
