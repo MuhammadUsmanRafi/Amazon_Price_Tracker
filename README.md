@@ -1,4 +1,3 @@
-# Amazon_Price_Tracker
 # Amazon_Price_Tracker  
 ## Amazon Price Tracker  ![Python version](https://img.shields.io/badge/python-3.x-blue.svg)     
   
